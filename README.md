@@ -1,4 +1,4 @@
 home
 ====
 
-my home settings and install instructions
+My home settings and install instructions / scripts
